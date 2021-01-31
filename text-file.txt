@@ -2,7 +2,7 @@ Random textsRandom textsRandom textsRandom textsRandom textsRandom textsRandom t
 Random texts
 Random texts
 Added text 
-Added more te
+Added more texts
 Added new text in another branch
 It's awesom
 moving main branch ahead in graph
