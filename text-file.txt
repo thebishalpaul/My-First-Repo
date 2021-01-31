@@ -3,3 +3,5 @@ Random texts
 Random texts
 Added text 
 Added more texts
+Added new text in another branch
+It's awesom
